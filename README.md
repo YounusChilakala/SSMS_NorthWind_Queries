@@ -1,1 +1,1 @@
-# A collection of queries from the Northwind database done in SSMS.
+# A collection of queries from the Northwind database using SQL Server.
